@@ -1,6 +1,6 @@
 # Satoru_Gojo_Infra
 
-**Phase0: install and Test Vagrant**
+**Phase 0: install and Test Vagrant**
 
 **Step 1: Install vagrant:**
 
@@ -13,13 +13,13 @@ Use this link https://developer.hashicorp.com/vagrant/downloads
     vagrant init bento/ubuntu-22.04
     vagrant up
 
-    expected result virtulbox  creat a vm for you (by default the user is vagrant and password is vagarant) 
+    expected result virtulbox  creat a vm for you (by default the user is vagrant and password is vagrant) 
 
     if you like you can destroy the vm using vagrant destroy
  
 
 
-##if you like to know basics about vagrant
+*** if you like to know basics about vagrant ***
 
 https://medium.com/@anouaressabbari/setting-up-a-lab-using-vagrant-and-virtualbox-fffb6673690
 
