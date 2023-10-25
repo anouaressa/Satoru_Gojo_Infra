@@ -13,7 +13,7 @@ Use this link https://developer.hashicorp.com/vagrant/downloads
 
     vagrant init bento/ubuntu-22.04
     vagrant up
-
+    !!! if u have a error in one of this tow steps just restart you're machine 
     expected result virtulbox  creat a vm for you (by default the user is vagrant and password is vagrant) 
 
     if you like you can destroy the vm using vagrant destroy
