@@ -7,7 +7,8 @@
 Use this link https://developer.hashicorp.com/vagrant/downloads
 
 **Step 2: Test it:**
-    Start Virtulbox && Create a folder && change dirctory to this folder 
+    Start Virtulbox && Create a folder && change dirctory to this folder && create a file with the name Vagrantfile
+    past the next content into 
     run the next commands:
 
     vagrant init bento/ubuntu-22.04
